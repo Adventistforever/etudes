@@ -2,7 +2,7 @@
 
 ## Nommer les fichiers .md
 
-`<sujet>#<n°theme>.<type>.md`
+`<sujet>#<n°theme>.md`
 
 Parfois rajouter `[minute]` si c'est optimisé pour être lu en moins d'une minute.
 
