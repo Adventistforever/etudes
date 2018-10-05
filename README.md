@@ -51,4 +51,4 @@ Article portant sur un ensemble de sujets s'organisant logiquement pour obtenir 
 
 ### Référencer un autre article
 
-`-><titre>.md`
+`ref.<titre>.md`
