@@ -42,7 +42,7 @@ Article portant sur un ensemble de sujets s'organisant logiquement pour obtenir 
 #2 5 dimensions de l'étude biblique
   #21 Terre à terre
   #22 Le Christ
-  #23 Ma vie
+  #23 Moi, vie pratique
   #24 L'Eglise
   #25 Le ciel
 ```
