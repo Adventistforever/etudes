@@ -2,9 +2,9 @@
 
 ## Nommer les fichiers .md
 
-`<sujet>#<n°theme>.md`
+`<sujet>#<n°theme>.<type>.md`
 
-Parfois rajouter `[minute]` si c'est optimisé pour être lu en moins d'une minute.
+Parfois rajouter `(minute)` entre type et md si c'est optimisé pour être lu en moins d'une minute.
 
 ### Types de sujet
 
