@@ -43,6 +43,9 @@ Article portant sur un ensemble de sujets s'organisant logiquement pour obtenir 
   #21 Terre à terre
   #22 Le Christ
   #23 Moi, vie pratique
+    #231 Relation avec Dieu
+    #232 Relation avec les autres
+    #233 Relation avec soi même
   #24 L'Eglise
   #25 Le ciel
 ```
