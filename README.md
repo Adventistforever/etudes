@@ -2,9 +2,13 @@
 
 ## Nommer les fichiers .md
 
-`<sujet>#<n°theme>.<type>.md`
+`<sujet>#<n°theme>.<type> <NB> .md`
 
-Parfois rajouter `(minute)` entre type et md si c'est optimisé pour être lu en moins d'une minute.
+### Nota Bene
+
+`(minute)` si c'est optimisé pour être lu en moins d'une minute.
+
+`(idee)` si l'étude n'est pas terminée
 
 ### Types de sujet
 
@@ -24,9 +28,17 @@ Parfois rajouter `(minute)` entre type et md si c'est optimisé pour être lu en
 
 Article sur un sujet précis, assez explicite dans la Bible
 
+`.details`
+
+Article sur plusieurs sujets précis, sans aucun lien les uns avec les autres
+
 `.these`
 
 Article portant sur un ensemble de sujets s'organisant logiquement pour obtenir quelque chose qui n'est pas dans la Bible directement
+
+`.theses`
+
+Je pense que t'as compris le principe 
 
 ### N° de thèmes
 
