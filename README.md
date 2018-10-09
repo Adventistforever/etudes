@@ -18,9 +18,11 @@
 
 `17.4.1Co`
 
-#### Nom de sujet
+#### Types de types de sujet
 
-`Paix`, `Joie`, `Sante`, etc.
+Prophetie
+
+Justification
 
 ### Types
 
