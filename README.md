@@ -62,6 +62,7 @@ Je pense que t'as compris le principe
     #233 Relation avec soi même
   #24 L'Eglise
   #25 Le ciel
+    #251 Wholesome religion
 ```
 
 ## Dans le texte
